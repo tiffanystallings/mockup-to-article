@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+
+ -  I learned about referencing the MDN HTML element documentation.
+
+* What has been easy?
+  
+ -  It was easy recalling the elements at my disposal and determining which ones were best suited for the task.
+
+* What has been difficult?
+
+ -  Since I'm already further along in this nanodegree program, nothing about this was really difficult.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+ -  
+Were I still very new to web development, the first project would have helped me to understand that it's okay for me to not have all the answers right away... and that there is documentation and other sources of information out there available to help me.
